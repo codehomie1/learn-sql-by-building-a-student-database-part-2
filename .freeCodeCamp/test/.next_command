@@ -129,3 +129,5 @@ psql -U postgres < students.sql
 \l
 clear
 touch student_info.sh
+chmod +x student
+chmod +x student_info.sh
